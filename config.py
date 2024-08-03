@@ -4,7 +4,6 @@ source_urls = [
     "http://175.178.251.183:6689/channel.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "http://120.79.4.185/new/mdlive.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
     "https://tv.youdu.fan:666/live/",
