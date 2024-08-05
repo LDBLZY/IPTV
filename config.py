@@ -3,10 +3,6 @@ ip_version_priority = "ipv6"
 source_urls = [
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
-    "https://tv.youdu.fan:666/live/",
-    "http://ww.weidonglong.com/dsj.txt",
-    "http://xhztv.top/zbc.txt",
-    "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://v.nxog.top/m/tv/1/",
     "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
