@@ -16151,3 +16151,17 @@ http://60.177.96.232:8888/udp/233.50.200.147:5140$LR•IPV4『线路54』
 http://gslbserv.itv.cmvideo.cn:80/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$LR•IPV4『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="湖北频道",湖北卫视
 rtp://239.3.1.138:8044$LR•IPV4『线路56』
+#EXTINF:-1 tvg-id="1" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://59.173.243.210:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://www.furymax.top:85/rtp/239.69.1.145:10506$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://119.98.71.95:8888/udp/239.69.1.145:10506$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://27.18.167.221:4022/udp/239.69.1.145:10506$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="武汉一台新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/武汉一台新闻综合.png" group-title="湖北频道",武汉一台新闻综合
+http://221.232.198.201:4022/udp/239.69.1.145:10506$LR•IPV4『线路7』

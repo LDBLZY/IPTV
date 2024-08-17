@@ -8077,4 +8077,11 @@ CCTV17,http://14.221.236.132:8808/rtp/239.77.0.115:5146$LR•IPV4『线路352』
 湖北卫视,http://60.177.96.232:8888/udp/233.50.200.147:5140$LR•IPV4『线路54』
 湖北卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$LR•IPV4『线路55』
 湖北卫视,rtp://239.3.1.138:8044$LR•IPV4『线路56』
+武汉一台新闻综合,http://59.173.243.210:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路1』
+武汉一台新闻综合,http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506$LR•IPV4『线路2』
+武汉一台新闻综合,http://www.furymax.top:85/rtp/239.69.1.145:10506$LR•IPV4『线路3』
+武汉一台新闻综合,http://119.98.71.95:8888/udp/239.69.1.145:10506$LR•IPV4『线路4』
+武汉一台新闻综合,http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
+武汉一台新闻综合,http://27.18.167.221:4022/udp/239.69.1.145:10506$LR•IPV4『线路6』
+武汉一台新闻综合,http://221.232.198.201:4022/udp/239.69.1.145:10506$LR•IPV4『线路7』
 
