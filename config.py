@@ -4,13 +4,8 @@ source_urls = [
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
-    "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
-    "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
-    "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-    "https://fm1077.serv00.net/SmartTV.m3u",
-    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/LDBLZY/kimwang1978/main/merged_output.txt"
 ]
 
