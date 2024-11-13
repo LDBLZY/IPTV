@@ -1,11 +1,11 @@
-2024-11-12 10:11:01,367 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2024-11-12 10:11:01,367 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 数字频道, 上海频道, 浙江频道, 内蒙频道
-2024-11-12 10:11:01,445 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 获取成功，判断为txt格式
-2024-11-12 10:11:01,446 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 爬取成功✅，包含频道分类: 👉6本链接已失效👈, 👉6请加视频中微信👈, 👉6以获取最新链接👈, 👉6唯一微信号:Star-Fairy6👈, 👉6定期更换新链接👈, 👉6不加此微信无售后👈
-2024-11-12 10:11:01,525 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
-2024-11-12 10:11:01,604 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 获取成功，判断为txt格式
-2024-11-12 10:11:01,611 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 爬取成功✅，包含频道分类: ﻿央视频道jxH, 江西本地jxH, 卫视频道jxH, 体育频道jxH, 儿童频道jxH, 特色频道jxH, 其他频道jxH, 央视频道ip6, 卫视频道ip6, 电影频道ip6, 数字频道ip6, 儿童频道ip6, 地方频道ip6, 综艺频道ip6, 纪录频道ip6, 体育频道ip6, 游戏频道ip6, 戏曲频道ip6, 更新时间ip6, 央视频道ip4, 卫视频道ip4, 电影频道ip4, 数字频道ip4, 儿童频道ip4, 地方频道ip4, 综艺频道ip4, 纪录频道ip4, 体育频道ip4, 解说频道ip4, 游戏频道ip4, 音乐频道ip4, 戏曲频道ip4, 更新时间ip4
-2024-11-12 10:11:01,685 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 获取成功，判断为txt格式
-2024-11-12 10:11:01,687 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 地方频道, 港·澳·台, 咪咕直播, 数字频道, 超高清频道, BesTV频道, iHOT频道, SiTV频道, NewTV频道
-2024-11-12 10:11:02,021 - INFO - url: https://raw.githubusercontent.com/LDBLZY/kimwang1978/main/merged_output.txt 获取成功，判断为txt格式
-2024-11-12 10:11:02,080 - INFO - url: https://raw.githubusercontent.com/LDBLZY/kimwang1978/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 🆕专享, 🆕优质, 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️浙江频道, ☘️江苏频道, ☘️湖南频道, ☘️湖北频道, ☘️安徽频道, ☘️广东频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️山东频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️以家人之名
+2024-11-13 10:13:09,606 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2024-11-13 10:13:09,606 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 数字频道, 上海频道, 浙江频道, 内蒙频道
+2024-11-13 10:13:09,624 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 获取成功，判断为txt格式
+2024-11-13 10:13:09,625 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 爬取成功✅，包含频道分类: 👉6本链接已失效👈, 👉6请加视频中微信👈, 👉6以获取最新链接👈, 👉6唯一微信号:Star-Fairy6👈, 👉6定期更换新链接👈, 👉6不加此微信无售后👈
+2024-11-13 10:13:09,637 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
+2024-11-13 10:13:09,695 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 获取成功，判断为txt格式
+2024-11-13 10:13:09,701 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 爬取成功✅，包含频道分类: 央视频道jxH, 江西本地jxH, 卫视频道jxH, 电影频道jxH, 体育频道jxH, 儿童频道jxH, 特色频道jxH, 其他频道jxH, 更新时间ip6, 央视频道ip4, 卫视频道ip4, 电影频道ip4, 数字频道ip4, 儿童频道ip4, 地方频道ip4, 综艺频道ip4, 纪录频道ip4, 体育频道ip4, 解说频道ip4, 游戏频道ip4, 音乐频道ip4, 戏曲频道ip4, 更新时间ip4
+2024-11-13 10:13:09,761 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 获取成功，判断为txt格式
+2024-11-13 10:13:09,763 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 地方频道, 港·澳·台, 咪咕直播, 数字频道, 超高清频道, BesTV频道, iHOT频道, SiTV频道, NewTV频道
+2024-11-13 10:13:10,357 - INFO - url: https://raw.githubusercontent.com/LDBLZY/kimwang1978/main/merged_output.txt 获取成功，判断为txt格式
+2024-11-13 10:13:10,416 - INFO - url: https://raw.githubusercontent.com/LDBLZY/kimwang1978/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 🆕专享, 🆕优质, 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️浙江频道, ☘️江苏频道, ☘️湖南频道, ☘️湖北频道, ☘️安徽频道, ☘️广东频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️山东频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️以家人之名
